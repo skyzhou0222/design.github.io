@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://skyzhou0222.github.io</id>
-    <title>gx design</title>
-    <updated>2020-04-21T18:59:17.550Z</updated>
+    <title>ZGX Design</title>
+    <updated>2020-04-22T03:17:21.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://skyzhou0222.github.io"/>
     <link rel="self" href="https://skyzhou0222.github.io/atom.xml"/>
-    <subtitle>周国翔的作品集</subtitle>
+    <subtitle>界面设计师</subtitle>
     <logo>https://skyzhou0222.github.io/images/avatar.png</logo>
     <icon>https://skyzhou0222.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, gx design</rights>
+    <rights>All rights reserved 2020, ZGX Design</rights>
     <entry>
         <title type="html"><![CDATA[钉钉 Redesign]]></title>
         <id>https://skyzhou0222.github.io/post/ding-ding-redesign/</id>
         <link href="https://skyzhou0222.github.io/post/ding-ding-redesign/">
         </link>
         <updated>2020-04-21T18:21:10.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
+        <summary type="html"><![CDATA[<p>钉钉设计侧重企业方。企业需求和员工体验天然冲突。<br>
+本次设计改版目的为塑造品牌亲民形象，提升员工体验。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>钉钉设计侧重企业方。企业需求和员工体验天然冲突。<br>
+本次设计改版目的为塑造品牌亲民形象，提升员工体验。</p>
+<!-- more -->
+<!-- more -->
 <!-- more -->
 <p><img src="https://skyzhou0222.github.io/post-images/1587493334894.jpg" alt="" loading="lazy"><br>
 <img src="https://skyzhou0222.github.io/post-images/1587493363600.jpg" alt="" loading="lazy"><br>
@@ -32,10 +38,10 @@
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你</p>
 <!-- more -->
 <p><a href="https://github.com/getgridea/gridea">Github</a><br>
 <a href="https://gridea.dev/">Gridea 主页</a><br>
