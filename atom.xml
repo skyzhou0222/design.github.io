@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wrvt7j.coding-pages.com</id>
+    <id>https://skyzhou0222.github.io</id>
     <title>ZGX Design</title>
-    <updated>2020-04-22T09:40:33.785Z</updated>
+    <updated>2020-04-23T02:33:31.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wrvt7j.coding-pages.com"/>
-    <link rel="self" href="https://wrvt7j.coding-pages.com/atom.xml"/>
+    <link rel="alternate" href="https://skyzhou0222.github.io"/>
+    <link rel="self" href="https://skyzhou0222.github.io/atom.xml"/>
     <subtitle>界面设计师</subtitle>
-    <logo>https://wrvt7j.coding-pages.com/images/avatar.png</logo>
-    <icon>https://wrvt7j.coding-pages.com/favicon.ico</icon>
+    <logo>https://skyzhou0222.github.io/images/avatar.png</logo>
+    <icon>https://skyzhou0222.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ZGX Design</rights>
     <entry>
         <title type="html"><![CDATA[钉钉 Re design]]></title>
-        <id>https://wrvt7j.coding-pages.com/post/ding-ding-redesign/</id>
-        <link href="https://wrvt7j.coding-pages.com/post/ding-ding-redesign/">
+        <id>https://skyzhou0222.github.io/post/ding-ding-redesign/</id>
+        <link href="https://skyzhou0222.github.io/post/ding-ding-redesign/">
         </link>
         <updated>2020-04-21T18:21:10.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://wrvt7j.coding-pages.com/post-images/1587493334894.jpg" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587493363600.jpg" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587493837226.gif" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587493798257.jpg" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587493806203.gif" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587528278966.gif" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587528299465.gif" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587528306898.jpg" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587528314929.jpg" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587528348714.gif" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587528356114.jpg" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587528362348.jpg" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587528367514.gif" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587528373280.jpg" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587528379696.jpg" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587528387197.jpg" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587528392879.jpg" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587528398113.jpg" alt="" loading="lazy"></p>
+        <content type="html"><![CDATA[<p><img src="https://skyzhou0222.github.io/post-images/1587493334894.jpg" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587493363600.jpg" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587493837226.gif" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587493798257.jpg" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587493806203.gif" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587528278966.gif" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587609082520.gif" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587609089147.jpg" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587609094181.gif" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587528348714.gif" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587528356114.jpg" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587528362348.jpg" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587528367514.gif" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587528373280.jpg" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587528379696.jpg" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587528387197.jpg" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587528392879.jpg" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587528398113.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[长春B端后台设计]]></title>
-        <id>https://wrvt7j.coding-pages.com/post/b-duan-hou-tai-she-ji-gui-fan/</id>
-        <link href="https://wrvt7j.coding-pages.com/post/b-duan-hou-tai-she-ji-gui-fan/">
+        <id>https://skyzhou0222.github.io/post/b-duan-hou-tai-she-ji-gui-fan/</id>
+        <link href="https://skyzhou0222.github.io/post/b-duan-hou-tai-she-ji-gui-fan/">
         </link>
         <updated>2019-09-11T04:45:19.000Z</updated>
         <summary type="html"><![CDATA[<p><font color=DarkGray>长春数字新区智慧城市运行指挥中后台的统一设计规范</font><br>
@@ -48,64 +48,64 @@
         <content type="html"><![CDATA[<p><font color=DarkGray>长春数字新区智慧城市运行指挥中后台的统一设计规范</font><br>
 难点：原长春新区的各个智慧城市后台为各地分部门独立开发设计，需要将原本的10余个后台内容框架组件进行了梳理拆解，低成本的进行统一改版，整合统一产品设计语言。后也将本规范应用于深圳龙华政府数字账户后台开发。</p>
 <!-- more -->
-<p><img src="https://wrvt7j.coding-pages.com/post-images/1587531058388.jpg" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587531066851.jpg" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587531072549.jpg" alt="" loading="lazy"><br>
-<img src="https://wrvt7j.coding-pages.com/post-images/1587531077284.jpg" alt="" loading="lazy"></p>
+<p><img src="https://skyzhou0222.github.io/post-images/1587531058388.jpg" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587531066851.jpg" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587531072549.jpg" alt="" loading="lazy"><br>
+<img src="https://skyzhou0222.github.io/post-images/1587531077284.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[电商租赁——ZUALL]]></title>
-        <id>https://wrvt7j.coding-pages.com/post/shu-ma-zu-ren-dian-shang-xiao-zu-pei-qi/</id>
-        <link href="https://wrvt7j.coding-pages.com/post/shu-ma-zu-ren-dian-shang-xiao-zu-pei-qi/">
+        <id>https://skyzhou0222.github.io/post/shu-ma-zu-ren-dian-shang-xiao-zu-pei-qi/</id>
+        <link href="https://skyzhou0222.github.io/post/shu-ma-zu-ren-dian-shang-xiao-zu-pei-qi/">
         </link>
         <updated>2018-05-16T05:10:05.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://wrvt7j.coding-pages.com/post-images/1587532993957.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://skyzhou0222.github.io/post-images/1587532993957.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[网咖后台——凡鱼]]></title>
-        <id>https://wrvt7j.coding-pages.com/post/wang-ka-ye-wu-guan-li-hou-tai-fan-yu/</id>
-        <link href="https://wrvt7j.coding-pages.com/post/wang-ka-ye-wu-guan-li-hou-tai-fan-yu/">
+        <id>https://skyzhou0222.github.io/post/wang-ka-ye-wu-guan-li-hou-tai-fan-yu/</id>
+        <link href="https://skyzhou0222.github.io/post/wang-ka-ye-wu-guan-li-hou-tai-fan-yu/">
         </link>
         <updated>2018-04-11T05:14:27.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://wrvt7j.coding-pages.com/post-images/1587532911492.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://skyzhou0222.github.io/post-images/1587532911492.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[网咖移动端——凡鱼]]></title>
-        <id>https://wrvt7j.coding-pages.com/post/wang-ka-yi-dong-duan-fan-yu/</id>
-        <link href="https://wrvt7j.coding-pages.com/post/wang-ka-yi-dong-duan-fan-yu/">
+        <id>https://skyzhou0222.github.io/post/wang-ka-yi-dong-duan-fan-yu/</id>
+        <link href="https://skyzhou0222.github.io/post/wang-ka-yi-dong-duan-fan-yu/">
         </link>
         <updated>2018-04-03T05:31:50.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://wrvt7j.coding-pages.com/post-images/1587533540026.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://skyzhou0222.github.io/post-images/1587533540026.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PP视频 Re design]]></title>
-        <id>https://wrvt7j.coding-pages.com/post/pp-shi-pin-re-design/</id>
-        <link href="https://wrvt7j.coding-pages.com/post/pp-shi-pin-re-design/">
+        <id>https://skyzhou0222.github.io/post/pp-shi-pin-re-design/</id>
+        <link href="https://skyzhou0222.github.io/post/pp-shi-pin-re-design/">
         </link>
         <updated>2018-02-15T05:35:10.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://wrvt7j.coding-pages.com/post-images/1587533735357.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://skyzhou0222.github.io/post-images/1587533735357.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[小马OS——车载系统]]></title>
-        <id>https://wrvt7j.coding-pages.com/post/xiao-ma-os-che-zai-xi-tong/</id>
-        <link href="https://wrvt7j.coding-pages.com/post/xiao-ma-os-che-zai-xi-tong/">
+        <id>https://skyzhou0222.github.io/post/xiao-ma-os-che-zai-xi-tong/</id>
+        <link href="https://skyzhou0222.github.io/post/xiao-ma-os-che-zai-xi-tong/">
         </link>
         <updated>2017-07-12T05:38:43.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://wrvt7j.coding-pages.com/post-images/1587533946674.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://skyzhou0222.github.io/post-images/1587533946674.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[直播电商导航——秀淘]]></title>
-        <id>https://wrvt7j.coding-pages.com/post/zhi-bo-dian-shang-dao-hang-xiu-tao/</id>
-        <link href="https://wrvt7j.coding-pages.com/post/zhi-bo-dian-shang-dao-hang-xiu-tao/">
+        <id>https://skyzhou0222.github.io/post/zhi-bo-dian-shang-dao-hang-xiu-tao/</id>
+        <link href="https://skyzhou0222.github.io/post/zhi-bo-dian-shang-dao-hang-xiu-tao/">
         </link>
         <updated>2017-04-12T05:40:41.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://wrvt7j.coding-pages.com/post-images/1587534091541.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://skyzhou0222.github.io/post-images/1587534091541.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
