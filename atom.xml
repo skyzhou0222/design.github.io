@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://skyzhou0222.github.io</id>
+    <title>ZGX Design</title>
+    <updated>2024-02-20T03:17:23.304Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://skyzhou0222.github.io"/>
+    <link rel="self" href="https://skyzhou0222.github.io/atom.xml"/>
+    <subtitle>一名体验设计师，热衷于以系统思维创造无缝体验。擅长讲复杂概念业务 解耦，模块化，平衡设计体验与开发成本</subtitle>
+    <logo>https://skyzhou0222.github.io/images/avatar.png</logo>
+    <icon>https://skyzhou0222.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, ZGX Design</rights>
+    <entry>
+        <title type="html"><![CDATA[K12在线英语学习平台_交互设计]]></title>
+        <id>https://skyzhou0222.github.io/ce-shi/</id>
+        <link href="https://skyzhou0222.github.io/ce-shi/">
+        </link>
+        <updated>2024-02-20T02:21:56.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钉钉 Re design]]></title>
+        <id>https://skyzhou0222.github.io/ding-ding-redesign/</id>
+        <link href="https://skyzhou0222.github.io/ding-ding-redesign/">
+        </link>
+        <updated>2020-04-21T18:21:10.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[长春B端后台设计]]></title>
+        <id>https://skyzhou0222.github.io/b-duan-hou-tai-she-ji-gui-fan/</id>
+        <link href="https://skyzhou0222.github.io/b-duan-hou-tai-she-ji-gui-fan/">
+        </link>
+        <updated>2019-09-11T04:45:19.000Z</updated>
+        <summary type="html"><![CDATA[<p><font color=DarkGray>长春新区智慧城市运行指挥中后台的统一设计规范</font><br>
+难点：原长春新区的各个智慧城市后台为各地分部门独立开发设计，需要将原本的10余个后台内容框架组件进行了梳理拆解，低成本的进行统一改版，整合统一产品设计语言。后也将本规范应用于深圳龙华政府数字账户后台开发。规范有对Ant Design的借鉴</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><font color=DarkGray>长春新区智慧城市运行指挥中后台的统一设计规范</font><br>
+难点：原长春新区的各个智慧城市后台为各地分部门独立开发设计，需要将原本的10余个后台内容框架组件进行了梳理拆解，低成本的进行统一改版，整合统一产品设计语言。后也将本规范应用于深圳龙华政府数字账户后台开发。规范有对Ant Design的借鉴</p>
+]]></content>
+    </entry>
+</feed>
